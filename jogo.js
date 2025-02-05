@@ -48,7 +48,7 @@ function contagem_tempo(segundos){
 
 	document.getElementById('cronometro').innerHTML = segundos;
 
-	timerId = setTimeout("contagem_tempo("+segundos+")", 1000);
+	timerId = setTimeout(function() { contagem_tempo(segundos); }, 1000);
 }
 
 function game_over(){
