@@ -22,10 +22,4 @@ Um jogo interativo onde os jogadores estouram balões dentro de um tempo limite.
 2. Clique na imagem para iniciar o jogo.
 3. Estoure todos os balões antes que o tempo acabe!
 
-## Instalação
 
-Clone este repositório e abra o arquivo `index.html` em um navegador para jogar.
-
-```bash
-git clone <https://github.com/mxteuss/estourar-baloes.git>
-cd <C:\Users\manod\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\trabalhos\jogo-balao>
